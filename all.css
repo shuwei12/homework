@@ -123,7 +123,9 @@ table {
 .under>div{
 	border-radius: 15px 15px 15px 15px;
 	background-image: linear-gradient(0deg, #A8D3FA, #fff);
-
+	border-top-color:#A8D3FA;
+	border-top-style:dotted; 
+	border-top-width:1px;
 }
 .under_1
 {
