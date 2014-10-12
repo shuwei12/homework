@@ -1,0 +1,156 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.most_out
+{
+	width: 700px;
+	height: 900px;
+	margin: 0px auto;
+}
+.header
+{
+	margin-top: 10px;
+	margin-bottom:20px;
+	height: 109px;
+	background:url(images/headerbg.png) repeat-x ; 
+}
+.logo{
+	float: left;
+}
+.logo h1{
+	text-indent: -119988px;
+	width:308px;
+	height:69px;
+}
+.logo a
+{
+	width:308px;
+	height:69px;
+	display: block;
+	background-image:url(images/logo.png) ;
+	background-repeat: no-repeat;
+
+}
+.header
+.top_menu5
+{
+	width:70px;height:67px;
+	background-image:url(images/menu-5.png) ;
+	float: right;
+}
+.top_menu4
+{
+	background-image:url(images/menu-4.png) ;
+	float: right;
+	width:70px;height:67px;
+}
+.top_menu3
+{
+	background-image:url(images/menu-3.png) ;
+	float: right;
+	width:70px;height:67px;
+}
+.top_menu2
+{
+	background-image:url(images/menu-2.png) ;
+	float: right;
+	width:70px;height:67px;
+}
+.top_menu1
+{
+	background-image:url(images/menu-1.png) ;
+	float: right;
+	width:70px;height:67px;
+}
+.center
+{
+	height: 170px;
+}
+.center_right
+{
+	background-image:url(images/demo.png) ;
+	float: right;
+	background-repeat: no-repeat;
+	box-shadow: #999 -3px 10px 20px;
+}
+.under
+{
+	*margin-top: 200px;
+	height: 300px;
+	width: 700px;
+}
+.under>div{
+	border-radius: 15px 15px 15px 15px;
+	background-image: linear-gradient(0deg, #A8D3FA, #fff);
+
+}
+.under_1
+{
+	float: left;
+}
+.under_2
+{
+	float: left;
+	margin-left:30px; 
+}
+.under_3
+{
+	float: left;
+	margin-left:25px;
+}
+.product_1
+{
+	margin: 0px auto;
+	background-image:url(images/product-1.png) ;
+}
+.product_2
+{
+	margin: 0px auto;
+	background-image:url(images/product-2.png) ;	
+}
+.product_3
+{
+	margin: 0px auto;
+	background-image:url(images/product-3.png) ;	
+}

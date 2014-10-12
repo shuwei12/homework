@@ -7,23 +7,16 @@
 </head>
 <body>
 <div class="most_out">
-	<div class="header">
-	<div class="logo" >
-		<h1><a href="">Blue Flame</a></h1>
-	</div>	
-		<div class="top_menu5"><a href="#" style="display:block;height:66px;"></a></div>
-		<div class="top_menu4" ><a href="#" style="display:block;height:66px;"></a></div>
-		<div class="top_menu3" ><a href="#" style="display:block;height:66px;"></a></div>
-		<div class="top_menu2" ><a href="#" style="display:block;height:66px;"></a></div>
-		<div class="top_menu1" ><a href="#" style="display:block;height:66px;"></a></div>
-	</div>
+	<div class="logo" ></div>
+	<div class="top_menu5" style="width:63px;height:67px;"></div>
+	<div class="top_menu4" style="width:63px;height:67px;"></div>
+	<div class="top_menu3" style="width:63px;height:67px;"></div>
+	<div class="top_menu2" style="width:63px;height:67px;"></div>
+	<div class="top_menu1" style="width:63px;height:67px;"></div>
 	<div class="center">
 		<div class="center_left"></div>
-		<div class="center_right" style="width:240px;height:159px;">
-			
-		</div>
+		<div class="center_right" style="width:240px;height:159px;"></div>
 	</div>
-	<br><hr><br>
 	<div class="under">
 		<div class="under_1" style="width:220px;height:300px;">
 			<div class="product_1" style="width:169px;height:149px;"></div>		
